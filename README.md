@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliafuji
+- 👋 Hi, I’m Aliafuji
 - 👀 I’m interested in **Backend Development, Web Technologies, Systems Programming, maybe Game Development with C#?**
 - 🌱 I’m currently learning C#, Go, and Svelte
 - 💞️ I’m looking to collaborate on **Open-source projects using Go, C#, or Svelte, Web application development, Command-line tools, or anything exciting where I can practice these languages!**
